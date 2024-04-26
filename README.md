@@ -8,13 +8,10 @@
 
 최대한 dependency는 줄이고, Pure Java 형태로 구현할 수 있도록 하였습니다.
 
-
-[블로그](https://sunghs.tistory.com/category/Copy%26Paste)의 바로 사용 가능한 복사&붙여넣기 소스 입니다.
-
 ### 개발환경 (Dev Environment)
 #### 2021-12-23 updated
 - IDE : IntelliJ 2021
-- JDK : Java11 (Amazon-corretto)
+- JDK : Java11
 - Gradle : 7.3
 
 입니다.
